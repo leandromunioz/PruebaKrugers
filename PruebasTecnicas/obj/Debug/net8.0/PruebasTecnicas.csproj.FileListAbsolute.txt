@@ -1,0 +1,14 @@
+C:\Users\BANGHO\source\repos\PruebasTecnicas\bin\Debug\net8.0\PruebasTecnicas.exe
+C:\Users\BANGHO\source\repos\PruebasTecnicas\bin\Debug\net8.0\PruebasTecnicas.deps.json
+C:\Users\BANGHO\source\repos\PruebasTecnicas\bin\Debug\net8.0\PruebasTecnicas.runtimeconfig.json
+C:\Users\BANGHO\source\repos\PruebasTecnicas\bin\Debug\net8.0\PruebasTecnicas.dll
+C:\Users\BANGHO\source\repos\PruebasTecnicas\bin\Debug\net8.0\PruebasTecnicas.pdb
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.AssemblyInfoInputs.cache
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.AssemblyInfo.cs
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.csproj.CoreCompileInputs.cache
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.dll
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\refint\PruebasTecnicas.dll
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.pdb
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\PruebasTecnicas.genruntimeconfig.cache
+C:\Users\BANGHO\source\repos\PruebasTecnicas\obj\Debug\net8.0\ref\PruebasTecnicas.dll
