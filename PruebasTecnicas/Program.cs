@@ -1,4 +1,4 @@
-﻿namespace PruebasTecnicas
+namespace PruebasTecnicas
 {
     using System;
     using System.Numerics;
@@ -24,14 +24,14 @@
         public static (int, int)? EncontrarDosEnterosQueSumanV(int[] S, int v)
         {
             Dictionary<int, int> complementosNecesarios = new Dictionary<int, int>();
-            foreach (int num in S)
+            foreach (int numeroActual in S)
             {
-                if (complementosNecesarios.ContainsKey(num))
+                if (complementosNecesarios.ContainsKey(numeroActual))
                 {
-                    return (num, v - num);
+                    return (numeroActual, v - numeroActual);
                 }
-                int complemento = v - num;
-                complementosNecesarios[complemento] = num;
+                int complemento = v - numeroActual;
+                complementosNecesarios[complemento] = numeroActual;
             }
             return null;
         }
